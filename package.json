@@ -1,6 +1,6 @@
 {
   "name": "a3-opensource-test",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "lib test",
   "main": "index.js",
   "type": "module",
