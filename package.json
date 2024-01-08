@@ -9,13 +9,13 @@
     "release": "release-it"
   },
   "jest": {
-    "moduleExtensions": [
+    "moduleFileExtensions": [
       "ts",
       "tsx",
       "js",
-      "jsx",
       "json",
-      "node"
+      "mjs"
+      
     ]
   },
   "author": "",
